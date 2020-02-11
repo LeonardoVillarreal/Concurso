@@ -1,0 +1,133 @@
+~4,600 psi (=2,000+0.052*8.33*6,000)
+± 9.7 ppg   (6500' * .434 psi/ft = 2821 psi; add 450 psi, divide by 6500'->req'd gradient = .503/.0521 = 9.67 ppg  )
+(a) 31.62 and (b) 30.88. Note: students can round to the nearest digit (32 and 31, respectively but need at least 2 significant digits to be correct)
+National Geodetic Survey/National Oceanic and Atmospheric Administration
+Stratified, Stratified wavy, Plug  ,	Slug, Bubble,  	Annular and Mist flow.
+Iridium, Scandium, Antimony
+Smectite, illite
+Divide by 7.481, to give 13.37 pounds/gal
+North American Datum of 1983, was adopted in 1986
+1)gearbox or reducer maximum torque  2)structural rating or capacity  3)maximum stroke length
+(50 +0.1*1000/5.61)/1.2' = 56.52 lb/ft3
+Closed Loop Drilling and Managed Pressure Drilling
+1) Strong attraction to oil and water interface, 2)  flocculation, 3)  coalescence, and 4)  solids wetting
+1) conventional rock data (porosity, permbility), 2) initial water sauration, 3) wettability data 4) overburden information 5) compressiliblity testing 6) EOR determination 7) strength tests for completion design
+1)shale gas   2)shale oil   3)tight gas    4)coalseam gas/coalbed methane    5)hydrates
+1) maximise viscosity enhancement/mobility reduction, 2) readily disolves, 3) propagate well and have low retnetion as its transported throught the reservoir, 4) good shear stability, 5) good chemical stability, 6) biological stability, 7) thermally stable at reservoir conditions, 8) acceptable injectivity peoperties
+Bisection, false poistion (also called regula falsi), fixed poit iteration, Newton (or Netwon-Raphson), Secant, Bairstow's method (there may be others as well)
+Matrix Body Construction and Steel Body Construction
+1) reservoir has low natural energy, 2) high water cuts, 3) high faciltieis back pressure, 4) low reservoir productivity
+POE:  Point of Entry, LP:  Landing Point
+Primary separation device,    secondary separation (gravity settling),   mist extractor,  gas outlet,   liquid settling section oil outlet,   water outlet,   adequate volume liquid capacity, adequate vessel diameter and adequate vessel height,    means to control oil/water levels in separator,   back pressure valve,    pressure relief devices
+Quartz, feldspar, plagioclase
+Reducing viscosity, Increasing droplets, Dissolves paraffin crystals (deactivate the emulsifier), Increasing density between oil and water
+Assess reservoir extent and geometry. Determine hydraulic communication between wells. Characterize reservoir heterogeneities. Evaluate reservoir parameters.
+Fluid A = Black Oil; Fluid B = Condensate
+Magnetic declination is the angle between magnetic North and Geographic North and Always measured positively Eastward in the US.
+Steel Tooth or Tungsten Carbide Inserts (TCI)
+Thermal, chemical, mechanical
+Bubble, Finely dispersed bubble, Slug, Churn, Annular dispersed flow.
+1)impeller or rotating impeller  2) diffuser or stationary diffuser
+Polyacrylamide and polysacchsride(Xanthan gum)
+Radial, fractured (cylindrical), and water drive
+Drift is more important as it has a smaller ID due to API milling tolerances
+Dry tree, wet tree, respectively
+Gross rock volume, net-to-gross ratio, porosity, hydrocarbon saturation, formation volume factor, recovery factor
+Porous plate methods,   Mercury methods,   Centrifuge methods
+Flash liberation, bubble point pressure
+You need to know that the nozzle size is represented in 1/32" --> 16/32" or 1/2" per ject, Area of 0.5" circle = 0.196 in2.  Total flow area = 0.196in2 x 5 jets = 0.98in2
+H=pq/1714, where H = hydraulic horsepower, p = pressure (psi or kPa), q = flow rate (gal/min or L/min), and 1,714 is the conversion of (psi-gal/min) to hydraulic horsepower [ or (kPa•L/min) = 44 750] .
+1) Square 2) Sharp
+Temperature, pressure, and composition of gas
+Rate-transient Analysis and Pressure Transient Analysis
+Wenyue Sun, Stanford University
+F=PxA, F=2000psix15.90in2, F=31,800lbs
+1) Flare stack height 2) thermal radiation 3) emissions during flaring 4) groud level concetrations in case of flare outs 5)liquid carryover 6)noise
+1) Texas, 2) North Dakota, 3) California, 4) Alaska, 5) Oklahoma
+40 = 141.15/D -131.5 | D = 0.823
+Middle-Time-Region and Late-Time-Region
+Akhil Datta-Gupta, Anil Kumar, Robert Moore, Alexander Neyin, Dean Oliver, Sidney S. Smith Sr., Dongxiao Zhang
+Light crude oil : API > 31.1°; Medium oil: 22.3 <API< 31.1°; Heavy crude oil: 10<API<22.3°; Extra heavy oil: API < 10.0°
+Formation heterogeneities, drillstring makeup, stabilizers, applied weight on bit, hole inclination angle, drillbit type mechanical design, hydraulics at the bit, improper hole cleaning
+2003, ESP
+Florence, Amsterdam, Dubai
+Shallow, low temperature, Carbonate reservoir
+Partial completion. Type of completion. Well deviation. Pseudoskins (rate and phase dependent skin)
+Paraffinic, napthenic, aromatic
+Conferences/Symposia:  5, Forums/Workshops:  14
+1) automation  2) real-time resource optimization  3) integrated technology platform  4) big data analytics
+Isolate producing zone from other formations, provide work shaft of known diameter to the pay zone, protect the production-tubing equipment
+API gravity (density, specific gravity) and sulfur content of the oil
+New York, Vermont, and Maryland
+Induction motors and permanent magnet motors
+ED = unit displacement efficiency (pore to pore discplacement efficiency would be ok), EI the vertical discplacement (sweep) efficiency, EA the areal discplacement (sweep) efficiency
+Nitrogen, carbon dioxide and hydrogen sulfide
+Drill rate, trip time, hole problems, casing running, directional drilling, completion type, move in and move out with rig, and weather
+4586 psi
+Igneous, Metamorphic, Sedimentary
+Environmental inhibitors, thermodynamic inhibitors, and kinetic inhibitors.
+Al-Marhoun, Al-Shammasi, Farshad et al, Kartoadmodjo, Velarde, Al-Najjar, Petrosky, Standing, Elsharkawy, Elam, Glaso, Levitan and Murtha, Asgarpour et al Leduc, Owolabi CIB, Abdul-Majeed and Salman, Omar and Todd, Labedi, Vasquez and Beggs, Dokla and Osman, Asgarpour et al Cardium, Ahmed, Owolabi ANS, Dindoruk and Christman, Almehaideb, Obomanu and Okpobiri, Asgarpour et al Nisku, Khairy, Macary et al.
+Discovered, recoverable, commercial, remaining.
+a =2; b=3; c=2
+6 channels – x,y,z Axis – Accelerometer (3 measurements) & x,y,z Axis – Magnetometer (3 measurements)
+Maximize hydrocarbon recovery, minimize pressure related drilling problems
+Plug-and-perf, Sliding sleeve, Coiled tubing-actuated sleeve
+Natural cementation (compressive strength) | Friction between sand grains | Fluid pressure in the pores of the rock | Capillary forces
+Determine well deliverability. Characterize formation damage and other sources of skin effect. Identify produced fluids and determine their respective volume ratios. Measure reservoir pressure and temperature. Obtain representative fluid samples suitable for PVT analysis. Evaluate completion efficiency. Evaluate workover or stimulation treatments.
+Reciprocating and rotary
+Surface separator, downhole/bottomhole, wellhead, stock tank
+1) constant BHP, 2) constant area with no-flow boundaries, 3) constant permeabliity, 4) constant wellbore condition, 5) well is in boundary dominated flow
+Anglo-Iranian Oil Company (now BP), Gulf Oil (Chevron), Royal Dutch Shell, Standard Oil Co of CA (SoCal, now Chevron), Standard Oil of NJ (Esso,later Exxon), Standard Oil of NY (Socony, later Mobil), Texaco
+Viscosity
+60 UTM’s at 6° each for 360°
+Loss of circulation, stuck pipe, shale instability, hole cleaning, barite sag, salt formations and rubble zones
+Friction due to perforations and friction due to tortuosity
+Energy levels, topography, and organic activity.
+Traditional (arps), Duong, Multi-Segment, Power Law, Stretched exponential, Transient Hyperbolic, Fetkovich
+Conventional,  Mark II,  Air balanced,  Reverse Mark (earlier models were known as TorqMaster)
+Identify origin of produced water, characterise aquifer properties, interpret wireline log measurements, predict formation damage from water incompatibility, investigate scaling tendencies, monitor fluid movement in reservoir, identify bacteria, evaluate disposal options, predict and monitor corrosion
+Casing failure, lack of cement integrity, Mobile gas or water in the completed zone
+Maxwell model
+WGS 72 & WGS 84
+Drawdown, buildup, fall off, flow test, RFT, drillstem, multirate, production, Bankers, interference (there may be more possible answers and some of these may go by different names)
+Transient effects, fluid models, wellbore geometry, flow types
+Acquisition, usage (for frac operations), and disposal (of produced and flowback)
+4600 million years old
+Progressive Cavity Pump, Rod Pump, (Jet pump)
+Sucker-rod (beam) pumping, Electrical submersible pumping (ESP), Gas lift and intermittent gas lift, Reciprocating and jet hydraulic pumping systems, Plunger lift, Progressive cavity pumps (PCP)
+1) Decreasing pressure and 2) mixing of oil with injected solvent in IOR processes
+1) Discovered, 2) remaining, 3) Commercial (economic), 4) recoverable (known technology)
+$61.90 for WTI and $64.85  for Brent
+1.467 =' 1.2 +0.005*(1000-700)/5.61'
+1. formation abrasiveness | 2. tooth geometry | 3. bit weight | 4. rotary speed | 5. cleaning and cooling action of the drilling fluid
+"Gaining Access", Exploration, Appraisal, Development, Production, Decommissioning
+Economic, Social, Environmental
+Tubing retrievable and wire-line retrievable
+1) abnormal reservoir pressure decline, 2) increasing watercut/water breakthrough, 3) wellbore gas breakout, 4) condensate drop out, 5) build up of sand or scale, 6) formation collapse, 7) parafin/wax build up
+G-Function Plot and Log-Log Plot 
+Magwa and Ahmadi
+73,319 and 17%  accept 70,000-75000 and 10-20%
+Increases ROP, Decreases formation damage, Eliminates risk of differential pipe sticking, Reduces risk of lost circulation, Improves bit life, Improves reservoir knowledge
+1) prevent the formation of hydrates; 2) prevent condensation of free water in facilities; 3) meet water content sales specifications; 4) prevent corrosion
+1) pressure pulsations,2) introduction of small hydrate crystal, 3) physical site (elbow, orifice, choke) 4) agitation 5) pressure of H2S and or CO2 6) sudden decrease in temp at constant pressure 7) sudden expansion through flow restriction
+1) to calcaulte fluid in place, 2) to anchor the initial pressure in P/Z for material balance and decline curves, 3) to determine reservoir depletion, 4) for PVT analsysis
+Methane (C1) | Ethane (C2) | Propane (C3) | Butane (C4) | Pentane (C5) | Hexane (C6)
+Twitter:  25,500, Instagram:  17,600 (to the nearest 100)
+0.5 g/ml (effluent concentration is half the injected concentration after one pore volume)
+8,000 ft x 0.1 psi/ft = 800 psi hydrostatic +4500 psi = 5300 psi true bottom hole pressure, 5300 psi/8000ft = 0.6625 psi/ft x 0.052 conversion = 12.8ppg
+1) The drill string trajectory is specified, usually as constant curve segments, 2) bending moments are neglected, 3) drill string force is assumed to be tangent to trajectory
+United States, Australia
+SPM * SL* (pump diameter)2 * conversion factor (from inches & min to bbl/per day)
+N2, CO2
+Carbon Dioxide Capture, Utilization and Storage, Drilling Systems Automation, Digital Energy, Drilling Uncertainty Prediction, Flow Assurance, Geomechanics, Human Factors, Petroleum Data-Driven Analytics (PD2A), Research and Development, Separations Technology, Sustainable Development, Unmanned Systems, Water Handling and Management, Wellbore Positioning, Well Integrity
+Pot aquifer Fetkovich, Hurst and Van Everdignen, Carter-Tracy, Schilthuis model
+Venezuela (302.25, 24.8%), Saudi Arabia (266.21, 21.9%), Iran (157.20, 12.9%), Iraq (148.77, 12.2%), Kuwait (101.50, 8.3%)
+ECD = Equivalent Circulating Density.  ECD is always higher than static mud weight.
+Cleaning of the cutting structure. Cuttings removal from the hole bottom. Efficient cuttings evacuation to the surface.
+1) Momentum 2) gravity settling 3) coalescing
+Saudi Arabia, Venezuela, Kuwait, Iraq, Iran
+Ball sealers, rock salt, benzoic acid flakes, napthalene flakes or balls, wax beads or uni beads,  oil soluable resin or polymer,  foam
+Alkanes, alkene, Alkynes
+Behrooz Fattahi, Roy H. Koerner, George H. Sawyer, Noel D. Rietman, Arlen L. Edgar, Edward E. Runyan, Donald G. Russell, M. Scott Kraemer, H.A. Nedom, Wayne E. Glenn, John S. Bell, Lloyd E. Elkins
+G = interecpt/slope = 1000/100 = 10 MMscf
+"All the Money in the World" and " Trust"

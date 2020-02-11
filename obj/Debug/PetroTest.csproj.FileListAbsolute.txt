@@ -1,0 +1,12 @@
+E:\Leo\PetroQuiz\PetroQuiz\PetroQuiz\bin\Debug\PetroQuiz.exe.config
+E:\Leo\PetroQuiz\PetroQuiz\PetroQuiz\bin\Debug\PetroQuiz.exe
+E:\Leo\PetroQuiz\PetroQuiz\PetroQuiz\bin\Debug\PetroQuiz.pdb
+E:\Leo\PetroQuiz\PetroQuiz\PetroQuiz\obj\Debug\PetroTest.csprojAssemblyReference.cache
+E:\Leo\PetroQuiz\PetroQuiz\PetroQuiz\obj\Debug\PetroQuiz.Form1.resources
+E:\Leo\PetroQuiz\PetroQuiz\PetroQuiz\obj\Debug\PetroQuiz.Concurso.resources
+E:\Leo\PetroQuiz\PetroQuiz\PetroQuiz\obj\Debug\PetroQuiz.Form3.resources
+E:\Leo\PetroQuiz\PetroQuiz\PetroQuiz\obj\Debug\PetroQuiz.Properties.Resources.resources
+E:\Leo\PetroQuiz\PetroQuiz\PetroQuiz\obj\Debug\PetroTest.csproj.GenerateResource.cache
+E:\Leo\PetroQuiz\PetroQuiz\PetroQuiz\obj\Debug\PetroTest.csproj.CoreCompileInputs.cache
+E:\Leo\PetroQuiz\PetroQuiz\PetroQuiz\obj\Debug\PetroQuiz.exe
+E:\Leo\PetroQuiz\PetroQuiz\PetroQuiz\obj\Debug\PetroQuiz.pdb

@@ -1,0 +1,252 @@
+What is used at the beginning of a frac stage to clean the perforations, get better connection to the reservoir and establish some width in the fracture prior to injecting bigger proppant?
+What is the name of the test used  to verify that the casing, cement, and formations below the casing seat can withstand the wellbore pressure required to drill safely to the next depth at which casing will be set?
+When designing a liner hanger you have to account for tube move.  Whate does a PBR stand for?
+As a type of API-standard tubing connection, what does EUE stand for?
+What is raw, untreated gas, that as it leaves the well and before it enters any field or other treating facilities
+What index is used in Ordovician and Devonian rocks as an indicator of thermal maturity and to determine maximum temperature reached by a sedimentary rock.
+What do the abbreviations of  "s" , "T" and "R" stand for in a well location ?
+What is a subsurface volume of porous and permeable rock in which oil and gas has accumulated?
+Who played Mike Williams the electronics technician in the recent movie Deepwater Horizon?
+Name the term to resolve an emulsion, especially water and oil, to its components
+You have to design a new Pressure Relief Valve (PRV) and found that back pressure at the downstream of the valve is too high for conventional type. What is your suggestion for this case?
+when creating a hydraulic fracture, what is the purpose or single most important feature to create
+What is this measurement called? "the tensile strength required to produce a total elongation per unit length of 0.005 on a standard test specimen."
+In directional drilling a mud motor or driling motor is often used to provide additional power to the bit.  What does PCPD stand for in a mud motor?
+What is the material pumped into a hydraulically fractured formation to keep the fractures from closing?
+What is the term to describe work expressed in foot pounds per pound of gas, with respect to a compressor at a given speed or capacity? 
+The product of bulk density and seismic propagation velocity in a medium in which a wavefield propagates is known as what?
+What is an object placed to mark key survey points on the Earth's surface?
+What is the geologic age of the niobrara formation?
+What was the name of the sailing ship that carried the first recorded shipping of oil in 1861?
+Name the calculation of gas through an orifice meter where the quantity of gas is determined, usually expressed in pounds mass per unit time
+What are the two primary chemical constituents of mud acid?
+Name the term to describe a rock stratum different or distinguished from another stratum
+Material Balance Time is the term that is the ratio of cumulative production to instantaneous rate, in what flow regime is this term applicable on a log/log plot?
+In rock mechanics, we assume that three principle stresses exists, where S1 is greater than S2 which is greater than S3. During hydraulic fracturing, assuming a planar geometry, in which direction do we expect a fracture to propagate?
+What type of schedule must be followed to maintain the drilling line in good condition?
+Multiple lateral junctions are categorized by their isolation capabilities or TAML.  What does TAML stand for?
+What is the name for a type of chemical used to reduce the viscosity of gels and foams?
+Why is it important t use deep induction and deep lateral logs when calcuating fluid saturations?
+What is the imaginary circle on the Earth's surface passing through Greenwich Park England and through the geographic poles?
+What is the name of an evaporite salt mineral and rock composed of CaSO4?
+What year was the world's first oil well drilled?
+What is the highest load imposed on the polished rod throughout a complete sucker rod pump cycle
+API pump designation 25-150-RHBC-24-5-2-2:  What designates the location / type of the seating assembly?
+Name the term to describe a liquid mixture of hydrocarbons
+What is the maximum API gravity for heavy oil?
+Name the recent volunteering initiative uniting all community service work done by SPE Student Chapters and Professional Sections. This initiative established volunteering events beginning at the 2015 ATCE.
+What is the pressure called in the annulus of casing strings that is measurable at the wellhead and rebuilds to at least the same pressure level after pressure has been bled down.
+Why is it not good practice to hold excessive pressure in the casing while the cement sets?
+In a typical primary cementing operation, which plug is dropped first?
+What was the first organic acid used for well stimulation purposes?
+How does the presense of H2S in natural gas mixtures impact hydrate formation?
+What is the name of the logging technique that measures the induced magnet moment of hydrogen nuclei (protons) contained within the fluid-filled pore space of porous media (reservoir rocks)?
+What surveying reference point does the Prime Meridian define?
+What is the name of a sodium, calcium, or potassium aluminum silicate clay mineral?
+What are the three common hydrocarbon reserve classifications used by the Security and Exchange Commission?
+Acording to SPE's Energy4Me literature, what city and country was the world's first oil well drilled?
+What does NORM stand for?
+Name the term to describe the durability or longevity of inhibitors used for corrosion control
+Name the general term to describe the unproduced but unrecoverable oil and gas in a formation that has been proved by production
+What is the primary source of data for defining the FWL fluid contacts?
+The basic materials of calcium carbonate and clay are combined to make this industry accepted barrier in wellbore construction.
+What is the approximage density of steel?
+What insoluble precipitate forms from the reaction of calcite with hydrofluoric acid? 
+In a BOP, what is the name of the rams designed to provide a seal when no pipe is in the hole?
+What method of logging does provide information about the quantities of fluids present, the properties of these fluids, and the sizes of the pores containing these fluids?
+If your well location is in North Dakota, what direction longitutde would it have?
+Besides the US, name another country in the Top 5 for technically recoverable shale gas resources
+In the January 2018 JPT, what instrument was the 2018 SPE President pictured playing?
+When calculating a Total Recordable Incident Rate (TRIR), what is the common hour-based denominator used by OSHA?
+What does the "C" stand for in this pumping unit type C456D-305-168?
+Name a method of artificial lift that uses an external source of high-pressure gas for supplementing formation gas to lift the well fluids
+Name the term to describe the total estimated amount of recoverable hydrocarbons in a reservoir
+What is the name of the partial differential equation used to describe the law of conservation of mass at every point in porous media?
+What's the most common use of matrix acidizing?
+What is the name given to a wellsite where multiple wells are drilled?
+According to API standards, when a proppant is said to be 40/70 that means that what percentage of particles fall between those sieve values?
+What is the name of fluid  used to thin and disperse drilling-fluid particles and used to separate drilling fluids and cementing slurries?
+When no oxygen is present in the in the gas stream, what is the maximum temperature operating limit in a compressor?
+How important is the difference between US Survey Foot conversion and International Foot Conversion in surveyed location?
+What is the branch of physics that deals with the deformation and flow of matter?
+According to the Energy Information Administration (EIA), which sector is the largest consumer of oil? 
+According to the February 2018 JPT, what was the total world rotary rig count in December 2017?
+What are the X and Y axes of a typical risk matrix?
+The maximum pressure differential across a gas lift valve bellows occurs in most installations during what operation?
+What is the term to describe when increasing or maintaining the pressure by injecting a pressurized fluid to effect greater ultimate recovery?
+What country surpassed the United States as the world's largest crude oil importer in 2017?
+What does ISIP for a stimulation mean?
+What is the name of the permeable fabric used on a drill site or production site to stabilize the ground?
+In relation to completions, what does the acronym TCP stand for?
+What does the acronym AFEù stand for when considering a project's economics?
+An article in the February 2018 JPT describes the design and fabrication of the worlds deepest FPSO unit.  What is FPSO?
+Surveys within a specific State are measured within what coordinate system?
+The ratio of the area occupied by the gas phase to the total area occupied both flowing gas and liquid phases at a given cross-section of a flow conduit.  Is called what? 
+Which large National Oil Company is planning an Initial Public Offering (IPO) this year?
+The December 2017 JPT has an article about water management in a mature basin in South Argentina, in the article, what basin does the acronym GSJB refer to?
+What is the specific gravity of hydrogen sulphide?
+What is the most common cause of wax deposition?
+In relation to reservoir flow units, what does "RQI" stand for?
+According to Baker Hughes, how many total drilling rigs where running world wide in December 2017? (+/- 100)
+What is the first fluid pumped into a well during a fracture stimulation?
+What is the term to describe having the affinity for the suspending medium, such as bentonite in water?
+Coiled tubing and snubbing operations use a special assembly for pressure control on live wells.  What is this assembly called?
+EVM refers to what economic term? 
+In the context of subsea installations; what does PLEM stands for?
+What is the definition of a "Setback" in location?
+When did the US Congress lift a 40-year ban of oil exports? 
+The January 2018 JPT has an article about an extended reach well drilled from the Orlan platform; what is the total depth of the well in meters?
+Who is the CEO of Halliburton
+What is the method of relative permeability measurement that consists of injection of only one phase at either a constant flow rate or constant pressure drop while the pressure drop and production of phases are measured?
+What are the two types of tracers?
+What does asphaltene adsorption onto the rock surface impact?
+If the end point relative permeability of oil to water (krow) is greater than 0.5, what does it indicate about the reservoir?
+In a well lifted with an ESP, what happens when the pump is stopped and fluid falls back?
+What is the term to describe a hole with casing that is exactly centralized in the hole?
+Name the law used to calculate particle settling velocity in a given fluid.
+This type of petroleum agreement was first developed in Indonesia in the 1960s, in this type of agreeement the oil producer gains right to conduct exploration and assumes the entire risk of exploration failure.
+Which of the following valves is considered a ìquarter turn valveî: Gate valve, ball valve, no-return valve, globe valve
+What is name of land that is available for oil and gas leasing or that has been leased?
+What is the only national trade association representing all facets of the oil and gas industry?
+In Norway the SPE sections have establised a national council, called the SPE Norway Council, how many SPE sections are there in Norway?
+This company produces approximately 2 million barrels of oil equivalents pr day, with ~250 000 coming from US, it has approximately 20 500 employees world wide and the majority owner (with ~67%) is  in the Norwegian State (Norway). What is this company's name?
+Name the term that describes the column of fluid that is designed to be moved by an ESP.  
+What is the diagnostic plot slope for a well experiencing bilinear flow?
+What is the term for the Lowest temperature at which oil is mobile (in a wax system)  
+What is the term used for acid treatments injected below the fracture pressure?
+According to the CEO of Halliburton in his February 2018 JPT interview, what is their highest priority outside North America?
+According to the Oil and Gas Journal's suggested bit and casing size selection chart, what would be an appropriate bit or hole size to run 4" casing?
+In Work-over Operations, what does PBTD stand for?
+What term is used to describe a situation when 90% of the estimates should be greater than this, and the probability of failure should be 10% or less/
+What is the name of unprocessed natural gas produced from the a   reservoir containing oil?
+On a topography map, what can be used to describe or detemine the direction of flow?
+In 2004 there was a major reserves scandal that rocked the oil industry.  What company was involved in this scandal? 
+The Organization of the Petroleum Exporting Countries (OPEC) currently has 14 member nations.  Which nation is OPEC‚Äôs newest member?
+Other than for FUEL, what is the next most important use of Hydrocarbons?
+In gas lift operations, what operation could be the most damaging to the gas lift valves? 
+In pressure transient analysis boundary dominated flow occurs in the late time region.  What is the technical term for when all of the outer boundaries have been reached and are no flow boundaries?
+Name the type of cement that consists of fly ash, hydrated lime, and small quantities of calcium chloride. At low temperatures, initial reactions of these cements are lower than Portland cements
+In Well Servicing, what does HUD stand for?
+What is the name of a transaction during which natural gas flows in the opposite direction of normal gas flow?
+Name the term to cool heat-treated metal rapidly by immersion in an oil or water bath?
+What does a reflection indicate on a seismic line?
+What is the name of a chemical alteration of a substance by microorganisms such as bacteria, either aerobic or anaerobic?
+According to 'Twilight in the Desert' by Matthew Simmons, what decade was oil discovered in Saudi Arabia?
+Plunger lift has become a widely accepted artificial lift method, espicially in what types of gas and oil wells?
+In Artificial Lift, what does PCP Stand for?
+When referring to produced oil, what does the acronym RVP stand for?
+Generally speaking for a tertiary flood, how does polymer increase oil recovery in a reservoir?
+Name the plane at which the bottom of an oil sand contacts the top of a water sand in a reservoir
+What is the name of a liquid that is capable of dissolving more gas at that temperature & pressure?
+Who serves on the SPE Foundation?
+What is the last string of casing set in a well, usually preceding a tubing string?
+What is the name of the diagram used to represent three dimensional stresses?
+API has adopted a casing "grade" designation to define the strength of casing steels. This designation consists of a grade letter followed by a number, what does that number represent?
+What is the rate of flow through a relief nozzle dependent on?
+Name the term to describe the rate of change of temperature and pressure
+What happens in a pump when available net positive suction head (NPSHa) is less than required net positive suction head (NPSHr)?
+Name the primary logging tool used to measure porosity
+What is a regional strike-slip fault with a nearly vertical fault plane?
+What year did West Texas Intermediate see its highest price per barrel?
+What is the series of pipes and vessels called that connect the wellhead gas to a central facility
+In reference to oil and gas production facilities, what does LACT stand for?
+What impact does increasing the salinity in formation water have on water fluid properties?
+What is the API gravity of a fluid with a density of 1 gm/cc? 
+What is the name of the reservoir  simulation models that rely on flow based calculations rather than cell based calcaultions?
+Who is the current CEO of SPE
+(DAS) provides near real-time measurement utilizing optical fiber.  What does DAS stand for?
+What is the name of a metal that easily corrodes and oxidizes in moist air?
+What tool is placed along critical casing sections to help prevent the casing from sticking while it is lowered into the well?
+Name the term to describe  the use of very small pieces of material, at dimensions between approximately 1 and 100 nanometers, by themselves or their manipulation to create new large scale materials, where unique phenomena enable novel applications.
+What happens to stagnation pressure when flow is accelerated in a nozzle with no loss?
+What term is used to define naturally occuring solids, that have a definite structure, composition and suite of properties that are fixed or vary systematically within a definite range?
+In Geophysics,  data recorded simulataneously in stratigraphic depth and sesimic reflection time is referred to as what?
+What country has the largest proven oil reserves?
+What is the name of a payment made to the mineral rights owner for not fully developing a lease?
+What are the units for GOR
+What do you call a compression system used to collect and compress low volume gas streams, or vent gas, for injection into the suction of a larger compressor, a meter run, or directly into a gas gathering line.
+What are the 2 most common stimulation methods?
+What is the name of a short pipe section just above a bit or mill on a drillstring that is designed to catchlarge jumk fragments in an outer bowl?
+With respect to casing and tubing, what does the acronym OCTG mean?
+A measure of elasticity, equal to the ratio of the stress acting on a substance to the strain produced
+What is the term to describe the elevations or inequalities of a land surface?
+What is a fault?
+According to Petrowiki, how many wells worldwide use some type of artificial lift?
+What is the industry 'slang' for a  potential HSE incident?
+What are the two main detrimental effects encountered during handling produced water from reservoirs?
+Name the 2 most common types of water based fracturing fluids
+The giant oil field Johan Sverdrup, which lies offshore Norway, will come on stream in 2019. What is the expected peak daily oil production in barrels per day for phase 1 of this project?
+2016 global oil consumption averaged 96.6 million bpd.  When was it half this volume?
+What recovery mechanism are Hall Plots used to analyse?
+In what year did JPT celebrate its 50th Anniversary?
+To the closest million, what is the October 2017 oil production from OPEC?
+Name 2 API classes of cement for well cementing
+Who is a drilling company employee in charge of drilling operations and supervision of the crew at the drillsite?
+In horizontal wells, what is the term used to describe the positive change in inclination over a normalised length (for example 3 deg/100 ft)?
+At what concentration is it generally accepted that exposure to H2S over one hour may lead to headache, dizziness, and/or staggering.
+Name the term to describe unstratified, homogeneous accumulation of silt, often containing small amounts of clay or sand an redeposited by wind from glacial outwash or deserts
+The last stage of maturation and conversion of organic matter to hydrocarbons. The stage occurs at temperatures of 150∞ to 200∞C [302∞ to 392∞F]. At the end of the stage, methane, or dry gas, is evolved along with nonhydrocarbon gases such as CO2, N2, and H2S, as oil molecules are cracked into smaller gas molecules. What do we call this?
+Of the five original OPEC member countries, only one was not located in the Middle East.  What country is this?
+What do we call  an economy in which we keep resources in use for as long as possible, extract the maximum value from them whilst in use, then recover and regenerate products and materials at the end of each service life. 
+Progressive cavity pumps evolve from the helical gear pump first developed in the 1920¥s, who developed the helical gear pump?
+What is a name for a well with no casing, liner or screen?
+When drilling on air, we often describe the drilling medium as "stiff foam".  Besides water, what is the other primary ingredient?
+Which way does the convex fold of an anticline point?
+In what year was the Organization of the Petroleum Exporting Countries (OPEC) founded?
+Operating companies are required to develop and implement a SEMS to address integrated management of oil and gas operations in the US Outer Continental Shelf.  What does SEMS stand for?
+In relation to reliability, what is the acronym RCFA?
+In the Oil and Gas industry it often happens that the operator initate a study / work to try to expand the production capacity at a production facility. What is this type of work often called?
+With relation to One of the offshore of oil and gas production modules, what does  is the "FPSO" stand for?
+Name the term that is defined as the process of displacing the wetting phase with the non-wetting phase:
+What dimensionless number represents the ratio of convective to dispersive forces?
+If the contact angle between a fluid and the formation surface is less than 90 degrees, the surface is said to be what?
+What is the maximum value that the relative permeability for oil can be?
+Who is the 2018 SPEI President
+In the context of transporting oil by sea, what does VLCC stand for?
+What is a wellhead that uses only one casinghead for all casing strings?
+When setting a plug on wireline, what does WLPSA stand for?
+What is the laying down of rock forming material by any natural agent
+What formation in Argentina is considered one of the most promising unconventional resources in the world?
+BSEE is the lead US government agency charged with improving safety on the U.S. Outer Continental Shelf, what does BSEE stand for?
+What is the benefit of running optic fibre in wellbores?
+The December 2017 JPT has an article about oil and gas facilities that uses the acronym RCM.  What does RCM stand for?
+Certain crude oils form deposits which may plug the wellbore tubing and valves, as well as coat surface safety and process control equipment
+The diffusvity equation for flow of slighlty compressible fluids can not be applied for gas, what are the two most common methods for linearizing the diffsuvity equation for gas flow?
+What is the primary difference between Reserves and Resources?
+What term is used to describe a fluid whose density is independent of pressure?
+What happens to the radius of investigation when you increase flow rate during well testing?
+In developing heavy oil reservoirs, what does SAGD stand for?
+Who is the 2017 SPEI President?
+What company in the Appalachians is featured in the Chapter 9 of the book 'The Frakers' by Gregory Zuckerman.  The company also employed the current SPE President Dary Spady
+What is the part of the wellhead that accomodates the tubing hanger?
+Where in a well is a BPV or Back Pressure Valve installed?
+What is the term to describe the ion-exchange to remove residual minerals from water
+What is the chemically precipitated mineral material that occurs in the spaces among the grains of a sedimentary rock, binding the grains into a rigid mass
+Wells drilled from piers in Santa Barbara California that pioneered the offshore industry, were drilled in what decade?
+Who is credited with development of the commonly-used safety triangle:
+Name the term that refers to a circumstance when multiple zones are being produced at once without any downhole zonal separation
+What acid should never be used during an acid fracturing treatment in a carbonate reservoir?
+If a sucker rod pumping unit designation is 456-305-168, what does the 168 represent?
+In reservoir simulation, Transmissibility between blocks is calcaulted between the centre values of the cells rather than at edges, what is the term for this?
+What type of flow regime is represented with a slope of minus one half ( -1/2) in a diagnostic plot of of  a pressure transient test?
+Name a type of artificial intelligence (AI) that provides computers with the ability to learn without being explicitly programmed
+The Permeability of a medium filled with a fluid with 1 cp viscosity flowing at a rate of 1 cm3/sec across a sectional area of 1 cm2 under a pressure gradient of 1 atmosphere per 1 cm.  Defines what unit of measure?
+What is the amount of water spontaneously imbibed divided by the amount of water forcibly imbibed during an Mott imbibition test on a porous rock?
+What term is used for a system when the dispersed droplets are larger than 0.1um and are thermodynamically unstable ?
+Name a length of a drillpipe, tubing, or casing shorter than the 18 feet or 6 meters in length
+What is the general technique that can be used to remove the effects of wellbore storage from the measured pressure profile from a pressure test?, this technique includes methods such as rate normalization and Laplace transformations.
+If Reservoir pressure is higher than saturation pressure and no free gas is present, what condition does that describe? 
+In what year did the Offshore Technology Conference celebrate its 40th anniversary?
+In 2016, what is OPEC's share of world crude oil reserves as a precentage?
+What temperature is necessary to cool natural gas into Liquified Natural Gas (LNG)
+With reference to liquid loading in gas wells, The flow velocity at which a liquid droplet is suspended, moving neither upward or downward in the wellbore Is called what?
+For water and hydrocabon gas systems at atmospheric pressure, what is the approximate surface tension in dynes/cm, within a 5% margin?
+Describe a reservoir fluid if all the gas is entrained in the oil and one does not have to estimate the GOR to get the fluid back to the  original composition?
+Since the program began in 1961 through the 2016-2017 season, how many Distinguished Lecturers have there been?
+In what year was water injection implemented in the Kirkuk field?
+When directional drilling with MWD tools, it is necessary to reduce to effect of magnetic interference from the drillstring.† The most common tool inserted into the drillstring is a NMDC.† What does this acronym stand for?
+2018 is the 30th anniversary of which of the following oil industry disasters:
+Longford (Australia), Macondo (Gulf of Mexico), Exxon Valdeze Oil Spill (Alaska), Piper Alpha (North Sea), Texas City (Texas) ?
+What do we call A dimensionless estimation of obstruction to flow. An undamaged well would have a value of zero. A damaged well has a positive value above zero and a stimulated well has a negative value.
+How does AIME (The American Institute of Mining, Metallurgical, and Petroleum Engineers) relate to SPE?
+According to the EIA, In 2016 approximately how much shale gas was produced in the United States?

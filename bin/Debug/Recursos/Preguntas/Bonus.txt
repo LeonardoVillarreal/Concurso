@@ -1,0 +1,133 @@
+This is a calculation question, If the measured surface shut-in pressure is 2,000 psi, there is fresh water in the well, and the perforations are 6,000 ft True Verical Depth, then what is the bottomhole shut-in pressure at the perforations?
+This is a calculation question, A 6500 foot TVD well filled with fresh water has a shut-in wellhead pressure of 450 psi.  What fluid weight (in ppg) would result in a wellhead pressure of zero psi?
+What is the numerical value for the shape factor for (a) circular reservoir with well in the center and (b) square reservoir with well in the center
+Where can one find datasheets for existing monuments,  and Where can one find insight into proper coordinate conversion method for the states?
+In gas-liquid two-phase horizontal flow in a smooth pipe, name at least three expected flow regime or patterns.
+Name the 3 solid raidoactive isotopes used for tracing in the industry?
+What are the two most common swelling clays encounted while drilling?
+This is a calculation question, convert a mud weight of 100 pounds/cuft to pounds/gal (US gal)?
+What does NAD83 stand for? When was it adopted into use.
+A sucker rod pumping unit designation has 3 different numbers, what do these 3 numbers represent?
+Calculation: An oil has a denisty at standard conditions of 50 lb/ft3. The produced gas has a density of 0.1 lb/ft3. If the solution gas ratio is 1000 scf/STB and the formation volume factor of the oil is 1.2 RB/STB, calculate the density of the oil at reservoir conditions
+In the February 2018 JPT there is an article with excerpts from a drilling related SPE paper.  The article references CLD and MPD.  For 5 points each, what does each acronym stand for?
+List 3 actions that are required of a chemical demulsifier
+Name 3 reasons for coring a new exploration well?
+From a geologic perspective, Unconventional Resources are classified into 5 types. Name 3 of these types or classifications
+Name 5  3 polymer attributes for selecting a polymer for a waterflood
+Name 3 numerical methods to determine the root of a nonlinear equation
+What are the 2 Body Material Types of PDC drill bits?
+Name 3 reasons for needing artifical lift?
+When generating a directional plan, what does POE and LP stand for?
+Name three essential components and/or  features for a separator on a facilities site
+Name two of the most common earth minerals.
+Name at least three basic benefits of using heat to treat crude oil emulsions.
+Name 3 purposes of descriptive reservoir tests
+Classify the following two oils. Oil A is dark green, has an API gravity of 25, and an initial formation volume factor of 1.2. Oli B is yellow to orange, has an API gravity of 50, and an initial formation volume factor of 8.0
+When looking at a Direction Drilling Plan, describe magnetic declination.  Is this always measured in terms of East or West in the US?
+Which type of drillbit has carbide inserts?
+Name three main categories of wax deposition
+In gas-liquid two-phase vertical flow in a smooth pipe, name at least three expected flow regime or patterns.
+The pump portion of an ESP, or electrical submersible pump, is made up of stages, name the 2 parts of each stage
+Name two classes of synthetic polymers used in water flooding
+Name three models for the normalized pressure integral type curve analysis
+When determing bit clearance through a casing string which is more important ID or Drift?  Why?
+Name the type of wellhead that is above the water line and the type of wellhead and tree that is on the seabed, referring to subsea completions
+Name 5 of  the different components which control hydrocarbons-in-place calculations?
+What are the three general and most popular methods for measuring capillary pressure?
+What is the sudden pressure drop that causes hydrocarbon light ends to go from a liquid to a gas? AND what is this resulting pressure called?
+What is the TFA (Total Flow Area) of an 8-3/4” PDC bit with 5 nozzles ported with 16’s?
+What is The basic equation for hydraulic energy?
+What are the 2 upstream profiles of an orifice plate?
+Name the three things the viscosity of natural gas depends on?
+Expand the abbreviations RTA and PTA, respectively.
+Name the 2017 International student paper contest winner for the PhD Division
+When snubbing, how much force is applied upward on a 4.5" flat bottom mill if there is 2000 psi on the well while milling with tubing?
+The location and height of flare stacks must consider what?
+Name 3 of the top 5 oil producing states in the United States?
+What is the specific gravity of 40 degree API oil?
+Expand the well testing abbreviations, MTR and LTR, respectively.
+Name 5 individuals who recived Honorary Membership in 2017
+Give the official API gravity range for the following 4 fluid types: light crude oil, medium crude oil, heavy crude oil, and Extra heavy oil
+Name four reasons of hole deviation
+According to 'Twilight in the Desert' by Matthew Simmons, Saudi Aramco's first venture into artificial lift was in what year, and with what type of artificial lift?
+Name the three cities outside the United States which have hosted SPE's ATCE.
+According to Petrowiki, what are the 3 best factors in candidate selection for Acid Fracturing?
+The total skin effect of a vertical or inclined well consists of a number of components, list the four major components of the total skin effect:
+What are the three groups of crude oils based on changing properties and compositions?
+Per the 2017 SPE Annual Report, how many conferences/symposiums and how many  forums/workshops were held in Asia Pacific?
+Name 3 of the 4 pillars of the E&P digital transformation from the February 2018 JPT article
+Name three reasons to have production casing
+Ignoring transportation costs, oil prices are influence by what two factors?
+Name 2 of the 3 US states have banned hydraulic fracturing
+Name the 2 types of motors used to power ESP systems
+In IOR/EOR processes the total recovery efficience for the oil recovery equation can be subdivided into three types of efficiencies.  ED, EI, and EA.   What do these 3 acronyms stand for?
+What are the three nonhydrocarbon gases typically found in crude oil systems?
+Name three factors that affect the time spent in drilling a well
+Calculate the BHP (in psi) of a 9000ft deep well with 9.8lb/gal brine in the entire well, with a wellhead pressure of zero psi
+What are the three different rock types?
+Name three of the Generic Hydrate inhibition systems that are commonly used in gas production
+Name three viscosity correlations
+What are three of the four characteristics of Reserves?
+The blake kozeny equation for permeability in packed beds of speheres can be written as k = (dp^a)*f^b/(150 *(1-f)^c), where dp is the grain diameter and f is the porosity. What is the numerical value of a, b, and c
+When directional drilling with MWD (Measurement While Drilling), how many raw channels or raw data are required to calculate the tool’s downhole position?
+Name two main categories why one would want to drill underbalanced?
+Name 2 common completion styles in multi-stage, cased-hole, horizontal well completions?
+Opposing the fluid forces are the restraining forces that hold the formation sand in place. Name the 3 of the 4 different restraining forces
+Name 3 purposes of productivity tests
+What are the 2 types of positive displacement compressors?
+Name  3 types of fluid samples that can be obtained?
+Name 3 assumptions of Arps decline curve analysis
+Name  5 of the original 7 companies that make up the "Seven Sisters"
+The Lee and Eakin (1964) and Stiel and Thodos (1962) Correlations are most useful to compute what fluid property?
+Directional Well Planning:  UTM stands for Universal Transverse Mercator.  How many UTM’s make up the Earth?
+Name 3 challenges related to drilling fluid
+When measuring near wellbore friction, a step-rate test provides an estimate of what two frictional values?
+What 3 things are important to the lateral distribution of depositional environments?
+Name  3 types of decline analysis in production forecasting
+Name three of the four standard sucker rod pumping unit structural geometry designations
+Name  3  applications of water sample analysis?
+Name 3 causes of unwanted flow in a well?
+What rheological constitutive model can  be represented by a purely viscous damper and a purely elastic spring connected in series?
+Directional Drilling & Directional Plans:  What are the 2 primary Datums or World Geodetic Systems used in the United States for directional well planning?
+Name 5 diifferent types of wells tests used
+Name 3 key considerations for wellbore hydraulic simulation
+The water management article in the December 2017 JPT describes water management decisions in shale oil and gas production in 3 primary categories. Name the 3 categories.
+How old is the Earth?
+Name two types of artificial lift that have positive displacement pumps
+Name 5 of the 6 major forms of artificial lift
+What are the two most prevalent causes of asphaltene precipitation in the reservoir?
+According to the PRMS what are three of the four requirements that must be met in order to classify hydrocarbon volumes as reserves?
+What was the price of WTI and Brent crude at close of business Tuesday, February 20th? +/- $1 accepted
+Calculation. An oil has a formation volume factor of 1.2 RB/STB, the produced gas a formation volume factor of 0.005 ft3/scf, and initial solution gas ration of 1000 scf/STB and a current solution gas ratio of 700 scf/STB. Compute the total formation volume factor in RB/STB
+Name the 3 of the 5 factors that influence the rate of tooth wear on a drillbit
+Name up to 5 different parts of the field life cycle
+When discussing sustainable development, people often refer to the “triple bottom line.” Name two of these three elements.
+Name two main types of gas lift mandrels
+Name 3 reasons why hydrocarbon production would deviate from established decline curve due to a change in the reservoir?
+What are the typical tools available for Injection/Falloff Performance Analysis?
+The Greater Burgan field is located in Kuwait and is the largest sandstone oil field. Name the 2 smaller fields included in the Greater Burgan?
+At year end 2017, how many student members did SPE have?  What percentage of those members were from North America?
+Name 3 advantages of underbalanced drilling:
+Name three reasons dehydration is important in gas processing?
+Name three conditions that favor the formation of hydrates?
+Name 3 reasons it is important to get an initial reservoir pressure prior to any substantial production?
+Name 5 of the first six alkenes in increasing carbon number
+Per the 2017 SPE Annual Report how many Twitter and Instagram followers does SPE have?
+A tracer is injected into a one-dimensional core with a concentration of 1 g/mL.There is no tracer initially in the core.  After injection of 1 pore volume, what is the expected concentration of tracer in the effluent?
+What is the required fluid weight needed to kill a gas well at 8,000’ TVD with 4,500 psi shut in pressure at surface?  Presume 0.1 psi/ft gas gradient.
+The Basis of torque and drag analysis consists of three principal features. What are they?
+Name the 2 countries that have had commercial Coalbed Methane production
+What is the formula to approximate the volume a rod pump can move, asuming an all steel string - no numbers are necessary
+What are the two most common non-hydrocarbon gasses considered for miscible gas injection projects?
+Name 5 SPE Technical Sections?
+Name 4 commonly-used aquifer models for prediicting water in-flux
+Name three of the five OPEC countries with the highest crude oil reserves at year end 2016?
+When drilling a well with drilling mud, what does ECD stand for?  Is the ECD higher or lower than the static mud weight?
+Name three crucial functions drilling fulid provides to drilling:
+What are the three principles used to achieve physical separation?
+Name the five founding countries of the Organisation of Petroleum Exporting Countries (OPEC)
+Name 2  3 types of diverting agents for stimulation treatments
+Name the three classes of parrafins
+Name 3 of the past presidents who have also served as AIME president?
+Calculation: A plot of P/z versus gas produced in a dry gas reservoir yields a straigh line with intecept 1000 psi and slope of 100 psi/MMscf. Calculate the initial gas in place
+What 2017 crime thriller film stars Christopher Plummer as J. Paul Getty and what upcoming American television anthology on FX stars Donald Sutherland also as J Paul Getty?
